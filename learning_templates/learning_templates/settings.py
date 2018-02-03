@@ -25,8 +25,9 @@ SECRET_KEY = 'esu^vqu(f1eld^v*6poj(b(t*6a!7k%x6f5k!3%h6a$ez84eu2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    'buttoxide.pythonanywhere.com',
+]
 
 # Application definition
 
